@@ -208,33 +208,30 @@ A college-focused platform designed to monitor student progress and provide supp
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 My Contributions
 
 <p align="center">
-
-<img
-src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg"
-alt="GitHub Contribution Snake"
-/>
-
+  <img 
+    src="https://raw.githubusercontent.com/WindStack-cmd/WindStack-cmd/output/snake.svg" 
+    alt="Snake animation" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-neon-zeta-55.vercel.app/api?username=saishparkr95-jpg&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0D1117" height="180"/>
+  
+  <img src="https://github-readme-stats-neon-zeta-55.vercel.app/api/top-langs/?username=saishparkar95-jpg&layout=compact&langs_count=6&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0D1117" height="180"/>
+</p>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0D1117"
-height="180"
-/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saishparkar95-jpg&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+</p>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0D1117"
-height="180"
-/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishparkar95jpg&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -329,3 +326,4 @@ width="100%"
 <p align="center">
 <b>⭐ Thanks for visiting my profile!</b>
 </p>
+in this make the changes and give me the proper one code
