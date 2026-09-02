@@ -16,35 +16,33 @@
 <br />
 
 <!-- ======================================================= -->
-<!-- TERMINAL WHOAMI / PROFILE INTERFACE                    -->
+<!-- HERO / LIVE STREAMER WORKSTATION ANIMATION             -->
 <!-- ======================================================= -->
 <div align="center">
-  <h3><code>saish@github ~ $ whoami</code></h3>
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/streamer.gif" width="580" alt="Saish Parkar - Streamer & Developer Battlestation" style="border-radius: 10px;" />
 </div>
 
-<table>
-  <tr>
-    <td width="42%" valign="top" align="center">
-      <p align="left"><code><b style="color: #00D4FF;">saish@dev-env:~$</b> portrait</code></p>
-      <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder-pixel.gif" width="100%" alt="Saish Parkar - Coding at Battlestation" />
-    </td>
-    <td width="58%" valign="top">
-      <p align="left"><code><b style="color: #00D4FF;">saish@dev-env:~$</b> neofetch</code></p>
-      <pre><code>------------- profile information -------------
+<br />
 
-<b>USER</b>      : Saish Parkar
-<b>ROLE</b>      : IT Student & Software Developer
-<b>FOCUS</b>     : Backend Systems / Web Dev / Applied AI
-<b>LEARNING</b>  : DSA / Advanced APIs / Cloud & DevOps
-<b>LANGUAGES</b> : Python / Java / C / C++ / JavaScript
-<b>STACK</b>     : Flask / React / Node.js / REST APIs
-<b>DATABASES</b> : MySQL / MongoDB
-<b>PROJECTS</b>  : Micro-Help Network / Stay On Track / Health Tracker
-<b>BUILDING</b>  : High-performance software & backend services
-<b>STATUS</b>    : Crafting clean code & solving practical problems ⚡</code></pre>
-    </td>
-  </tr>
-</table>
+<!-- ======================================================= -->
+<!-- TERMINAL SYSINFO / WHOAMI                              -->
+<!-- ======================================================= -->
+<div align="center">
+  <h3><code>saish@github ~ $ neofetch</code></h3>
+</div>
+
+```yaml
+user: Saish Parkar
+role: Information Technology Student & Software Developer
+focus: [Backend Architecture, Scalable Web Systems, Applied AI]
+learning: [Advanced DSA, Microservices, Cloud & DevOps Automation]
+stack:
+  languages: [Python, Java, C, C++, JavaScript]
+  frameworks: [Flask, Node.js, React, REST APIs]
+  databases: [MySQL, MongoDB]
+  tools: [Git, GitHub, Docker, VS Code, Postman, Linux]
+status: Open for Internships & Engineering Opportunities 🚀
+```
 
 <br />
 
