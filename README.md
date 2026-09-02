@@ -19,17 +19,11 @@
 <!-- HERO / NIGHT CODER BATTLESTATION                       -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder-block.png" width="700" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder.jpg" width="750" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
 </div>
 
 <br />
 
-<!-- ======================================================= -->
-<!-- TERMINAL SYSINFO / WHOAMI                              -->
-<!-- ======================================================= -->
-<div align="center">
-  <h3><code>saish@github ~ $ neofetch</code></h3>
-</div>
 
 ```yaml
 user: Saish Parkar
