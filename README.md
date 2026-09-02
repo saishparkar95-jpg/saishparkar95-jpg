@@ -30,7 +30,9 @@
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- ABOUT ME                                               -->
@@ -52,7 +54,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- CURRENT FOCUS                                          -->
@@ -73,15 +77,26 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- TECH STACK                                             -->
 <!-- ======================================================= -->
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,flask,nodejs,mysql,mongodb,git,github,vscode,postman,docker,linux&theme=dark" alt="Saish Parkar's Tech Skills" />
+  </a>
+</div>
+
+<br />
+
 ### 💻 Programming Languages
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" alt="Programming Languages" /><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -91,6 +106,7 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 ### 🌐 Frontend Development
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend Tech" /><br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -99,6 +115,7 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 ### ⚙️ Backend & Architecture
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs&theme=dark" alt="Backend Tech" /><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -107,12 +124,14 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 ### 🗄️ Databases
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database Tech" /><br />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### 🔧 Tools & Environment
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Tools Tech" /><br />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -123,7 +142,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- CORE CONCEPTS                                          -->
@@ -140,7 +161,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- FEATURED PROJECTS                                      -->
@@ -212,7 +235,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- GITHUB STATISTICS                                      -->
@@ -245,7 +270,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- CONTRIBUTION ACTIVITY                                  -->
@@ -286,12 +313,18 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- CURRENT LEARNING                                       -->
 <!-- ======================================================= -->
-## 📚 Current Learning
+## 📚 Current Learning & Emerging Tech
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="450" alt="Emerging AI & Systems" />
+</div>
 
 - 🧠 **Applied Artificial Intelligence:** Exploring LLM integration, prompt engineering, and intelligent API workflows.
 - ☁️ **Cloud & DevOps Foundations:** Familiarizing with Docker containerization, CI/CD with GitHub Actions, and cloud deployment pipelines.
@@ -299,7 +332,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- 2026 GOALS                                             -->
@@ -313,7 +348,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- PROFESSIONAL HIGHLIGHTS                                -->
@@ -332,7 +369,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- CONNECT WITH ME                                        -->
@@ -357,7 +396,9 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 
 <br />
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ======================================================= -->
 <!-- DEVELOPER PHILOSOPHY                                   -->
@@ -367,8 +408,6 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 > *"Code is written once, but read, debugged, and maintained thousands of times. Strive for clarity, simplicity, and continuous refinement."*
 
 <br />
-
----
 
 <!-- ======================================================= -->
 <!-- FOOTER                                                 -->
