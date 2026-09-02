@@ -2,8 +2,18 @@
 <!-- GITHUB PROFILE HEADER                                  -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:07111F,50:102A43,100:00D4FF&height=220&section=header&text=SAISH%20PARKAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Software%20Developer&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Saish Parkar Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&custom_color=0:07111F,40:0D2137,80:0052CC,100:00D4FF&height=230&section=header&text=SAISH%20PARKAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Software%20Developer&descFontSize=16&descAlignY=64&descAlign=50&stroke=00D4FF&strokeWidth=2" width="100%" alt="Saish Parkar Header" />
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20INTERNSHIPS-00D4FF?style=for-the-badge&logo=githubactions&logoColor=black&labelColor=07111F" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DOMAIN-SOFTWARE%20ENGINEERING-102A43?style=for-the-badge&logo=visualstudiocode&logoColor=00D4FF&labelColor=07111F" alt="Domain" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20APIs-0052CC?style=for-the-badge&logo=python&logoColor=white&labelColor=07111F" alt="Focus" />
+</div>
+
+<br />
 
 <!-- ======================================================= -->
 <!-- HERO / DEVELOPER ANIMATION                             -->
