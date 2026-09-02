@@ -19,7 +19,7 @@
 <!-- HERO / DEVELOPER ANIMATION                             -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="550" alt="Developer Coding Environment" />
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder.gif" width="550" alt="Saish Parkar - Developer at Workstation" />
 </div>
 
 <!-- ======================================================= -->
