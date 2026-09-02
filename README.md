@@ -16,15 +16,17 @@
 <br />
 
 <!-- ======================================================= -->
-<!-- HERO / ACTIVE NIGHT CODER BATTLESTATION                -->
+<!-- HERO / NIGHT CODER BATTLESTATION                       -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder-active.gif" width="750" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder.jpg" width="750" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
 </div>
 
 <br />
 
-
+<!-- ======================================================= -->
+<!-- ABOUT ME / PROFILE INFORMATION                         -->
+<!-- ======================================================= -->
 ```yaml
 user: Saish Parkar
 role: Information Technology Student & Software Developer
