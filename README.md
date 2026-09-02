@@ -19,14 +19,7 @@
 <!-- HERO / NIGHT CODER BATTLESTATION                       -->
 <!-- ======================================================= -->
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <p align="left"><code><b>saish@battlestation:~$</b> cat session.png</code></p>
-        <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder-block.png" width="700" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder-block.png" width="700" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
 </div>
 
 <br />
