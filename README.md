@@ -255,7 +255,7 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
 > *GitHub activity and contribution history across public repositories and projects.*
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishparkar95-jpg&bg_color=07111F&color=00D4FF&line=00D4FF&point=E2E8F0&area=true&area_color=102A43&title_color=00D4FF&text_color=E2E8F0&border_color=102A43&hide_border=false" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=saishparkar95-jpg&bg_color=07111F&color=00D4FF&line=00D4FF&point=E2E8F0&area=true&area_color=102A43&title_color=00D4FF&text_color=E2E8F0&border_color=102A43&hide_border=false" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 <br />
