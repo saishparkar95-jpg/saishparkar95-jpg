@@ -16,10 +16,10 @@
 <br />
 
 <!-- ======================================================= -->
-<!-- HERO / PIXEL BLOCK REVEAL BATTLESTATION ANIMATION      -->
+<!-- HERO / NIGHT CODER BATTLESTATION                       -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder-reveal.gif" width="700" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder.jpg" width="700" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
 </div>
 
 <br />
