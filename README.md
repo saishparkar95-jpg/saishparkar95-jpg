@@ -16,11 +16,37 @@
 <br />
 
 <!-- ======================================================= -->
-<!-- HERO / DEVELOPER ANIMATION                             -->
+<!-- TERMINAL WHOAMI / PROFILE INTERFACE                    -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder.gif" width="550" alt="Saish Parkar - Developer at Workstation" />
+  <h3><code>saish@github ~ $ whoami</code></h3>
 </div>
+
+<table>
+  <tr>
+    <td width="42%" valign="top" align="center">
+      <p align="left"><code><b style="color: #00D4FF;">saish@dev-env:~$</b> portrait</code></p>
+      <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder.gif" width="100%" alt="Saish Parkar - Coding at Workstation" />
+    </td>
+    <td width="58%" valign="top">
+      <p align="left"><code><b style="color: #00D4FF;">saish@dev-env:~$</b> neofetch</code></p>
+      <pre><code>------------- profile information -------------
+
+<b>USER</b>      : Saish Parkar
+<b>ROLE</b>      : IT Student & Software Developer
+<b>FOCUS</b>     : Backend Systems / Web Dev / Applied AI
+<b>LEARNING</b>  : DSA / Advanced APIs / Cloud & DevOps
+<b>LANGUAGES</b> : Python / Java / C / C++ / JavaScript
+<b>STACK</b>     : Flask / React / Node.js / REST APIs
+<b>DATABASES</b> : MySQL / MongoDB
+<b>PROJECTS</b>  : Micro-Help Network / Stay On Track / Health Tracker
+<b>BUILDING</b>  : High-performance software & backend services
+<b>STATUS</b>    : Crafting clean code & solving practical problems ⚡</code></pre>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <!-- ======================================================= -->
 <!-- TYPING ANIMATION                                       -->
@@ -37,30 +63,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saishparkar95-jpg&label=PROFILE+VIEWS&color=00D4FF&style=flat-square&labelColor=07111F" alt="Profile Views" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
-
-<!-- ======================================================= -->
-<!-- ABOUT ME                                               -->
-<!-- ======================================================= -->
-## 👨‍💻 About Me
-
-```yaml
-name: Saish Parkar
-field: Information Technology
-role: IT Student & Aspiring Software Developer
-passions: [Software Engineering, Backend Systems, Web Development, Applied AI]
-core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Engineering]
-```
-
-- 🎓 **Academic Background:** Information Technology undergraduate focused on building robust computer science fundamentals and real-world software engineering applications.
-- 💡 **Engineering Interests:** Passionate about backend development, database architecture, scalable REST APIs, and modern full-stack web applications.
-- 🐍 **Python Specialist:** Leveraging Python for system logic, backend APIs, data manipulation, and exploring practical AI integrations.
-- 🚀 **Pragmatic Builder:** Committed to creating clean, maintainable, and user-centric software solutions that solve genuine problems.
 
 <br />
 
