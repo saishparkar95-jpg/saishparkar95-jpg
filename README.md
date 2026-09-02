@@ -26,7 +26,7 @@
   <tr>
     <td width="42%" valign="top" align="center">
       <p align="left"><code><b style="color: #00D4FF;">saish@dev-env:~$</b> portrait</code></p>
-      <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder.gif" width="100%" alt="Saish Parkar - Coding at Workstation" />
+      <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder-pixel.gif" width="100%" alt="Saish Parkar - Coding at Battlestation" />
     </td>
     <td width="58%" valign="top">
       <p align="left"><code><b style="color: #00D4FF;">saish@dev-env:~$</b> neofetch</code></p>
