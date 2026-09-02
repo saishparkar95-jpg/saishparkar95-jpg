@@ -19,7 +19,7 @@
 <!-- HERO / PIXEL BLOCK REVEAL BATTLESTATION ANIMATION      -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder-pixel-reveal.gif" width="550" alt="Saish Parkar - Pixel Block Reveal Battlestation" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/dev-night-coder-reveal.gif" width="700" alt="Saish Parkar - Night Developer Battlestation" style="border-radius: 10px;" />
 </div>
 
 <br />
