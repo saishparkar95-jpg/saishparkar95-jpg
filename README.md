@@ -223,10 +223,10 @@ core_strengths: [Clean Code, Problem Solving, Continuous Learning, Practical Eng
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=saishparkar95-jpg&show_icons=true&theme=tokyonight&bg_color=07111F&title_color=00D4FF&text_color=E2E8F0&icon_color=00D4FF&border_color=102A43&hide_border=false&count_private=true" alt="Saish's GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saishparkar95-jpg&show_icons=true&theme=tokyonight&bg_color=07111F&title_color=00D4FF&text_color=E2E8F0&icon_color=00D4FF&border_color=102A43&hide_border=false&count_private=true" alt="Saish's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishparkar95-jpg&layout=compact&theme=tokyonight&bg_color=07111F&title_color=00D4FF&text_color=E2E8F0&border_color=102A43&hide_border=false" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saishparkar95-jpg&layout=compact&theme=tokyonight&bg_color=07111F&title_color=00D4FF&text_color=E2E8F0&border_color=102A43&hide_border=false" alt="Top Languages" />
       </td>
     </tr>
   </table>
