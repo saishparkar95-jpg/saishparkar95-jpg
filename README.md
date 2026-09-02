@@ -16,10 +16,10 @@
 <br />
 
 <!-- ======================================================= -->
-<!-- HERO / LIVE STREAMER WORKSTATION ANIMATION             -->
+<!-- HERO / PIXEL BLOCK REVEAL BATTLESTATION ANIMATION      -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/streamer.gif" width="580" alt="Saish Parkar - Streamer & Developer Battlestation" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/saishparkar95-jpg/saishparkar95-jpg/main/assets/coder-pixel-reveal.gif" width="550" alt="Saish Parkar - Pixel Block Reveal Battlestation" style="border-radius: 10px;" />
 </div>
 
 <br />
